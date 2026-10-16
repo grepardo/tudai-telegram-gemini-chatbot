@@ -1,4 +1,4 @@
-# Telegram-to-Gemini AI Bot con n8n & Docker
+# Telegram-to-Gemini AI Bot con n8n
 
 Este proyecto consiste en un chatbot inteligente para Telegram impulsado por el modelo **Google Gemini AI**, orquestado de manera visual e integrada a través de **n8n** corriendo en un contenedor de **Docker**. Este proyecto lo hice para complementar mis estudios en la carrera de TUDAI en la UNICEN. 
 El chatbot está orientado dar soporte a los estudiantes de la carrera, con gemini flash los usuarios obtienen respuestas rápidas y concisas ante cualquier duda.
